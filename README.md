@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Likes](https://badgen.org/img/zenn/takeguchi/likes?style=plastic)](https://zenn.dev/takeguchi)
+[![Followers](https://badgen.org/img/zenn/takeguchi/followers?style=plastic)](https://zenn.dev/takeguchi)
+[![Articles](https://badgen.org/img/zenn/takeguchi/articles?style=plastic)](https://zenn.dev/takeguchi)
 
 ![Static Badge](https://img.shields.io/badge/python-_?logo=python&color=%23696969)
 ![Static Badge](https://img.shields.io/badge/pytorch-_?logo=pytorch&color=%23696969)
@@ -15,13 +18,10 @@
 ![Static Badge](https://img.shields.io/badge/Django-_?logo=Django&color=%23696969)
 
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ta-ke-inf&theme=onedark&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ta-ke-inf&theme=onedark&show_icons=true&locale=en&layout=compact"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤖 I'm currently second-year master's student researching Machine Learning.
+- 🔭 I’m currently working on [Araya Inc.](https://www.araya.org/) (Engneering Intern).
+- 🌱 I’m Interested in Computer Vision, Software Development.
+- 📫 How to reach me: takeguchi.um.stu@gmail.com..
+- ⚡ Fun fact: 🎮game,🔥anime,⚽foot ball
