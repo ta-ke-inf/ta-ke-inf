@@ -17,9 +17,9 @@
 ![Static Badge](https://img.shields.io/badge/Unity-_?logo=Unity&color=%23696969)
 ![Static Badge](https://img.shields.io/badge/Django-_?logo=Django&color=%23696969)
 
-
+<!--
 <p><img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ta-ke-inf&theme=onedark&show_icons=true&locale=en&layout=compact"/></p>
-
+-->
 - 🤖 I'm currently second-year master's student researching Machine Learning.
 - 🔭 I’m currently working on [Araya Inc.](https://www.araya.org/) (Engneering Intern).
 - 🌱 I’m Interested in Computer Vision, Software Development.
